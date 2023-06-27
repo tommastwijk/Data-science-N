@@ -61,7 +61,7 @@ D_2.1 <- datasummary(growth + rgdp60 ~ treat * (mean + median + sd + min + max),
 
 **Designated place**: type one or two sentences describing this table of a fellow student below. For example, comment on the mean and median growth of both groups. Then stage, commit and push it to their github repository. 
 
-The mean went a bit down. This means that the average value of the data has decreased compared to a previous value.1
+the median growth for countries with zero revolutions is bigger than the median growth for countries that had more than zero revolutions.
 
 ### Part 3: Make a table summarizing reressions using modelsummary and kable
 
